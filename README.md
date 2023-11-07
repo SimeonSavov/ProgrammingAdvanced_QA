@@ -3,7 +3,7 @@
 Welcome to my repository for the 'Programming Advanced for QA' course in QA Engineering at SoftUni. Here, I will be sharing my exercises and projects.
 
 ## Folder Structure
-
+-[StringAndTextProcessing_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-first-section---string-and-text-processing-lesson-1)
 
 
 
