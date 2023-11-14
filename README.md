@@ -76,3 +76,21 @@ Created the `Substring` class with the `RemoveOccurrences` method for removing s
 Implemented the `TextFilter` class for replacing banned words in text with asterisks. Unit tests covered cases with and without banned words, showcasing the method's ability to handle different scenarios.
 
 In this section, I delved into the art of unit testing, applying it to various string manipulation and regex-related tasks. These exercises equipped me with essential skills for ensuring the correctness and reliability of my code.
+
+## About the Fourth Section - Dictionary, Lambda Expressions & LINQ (Lesson 4)
+
+In the fourth section of the "Programming Advanced for QA" course, the focus shifted to dictionaries, lambda expressions, and LINQ in C#. Here's a summary of the methods and exercises covered:
+
+1. **Task 1 - Numbers Frequency:**
+Implemented a program to read and display the frequency of each number in an array. Utilizing a `SortedDictionary<int, int>` and basic iteration, I gained insights into dictionary usage for tracking element occurrences.
+
+2. **Task 2 - Odd Word Occurrences:**
+Developed a program to count and display words with odd occurrences in a case-insensitive manner. Employing a `Dictionary<string, int>` and lambda expressions, this task enhanced my skills in handling word occurrences and case-insensitive comparisons.
+
+3. **Task 3 - Synonyms Dictionary:**
+Implemented a program to create and display a dictionary of synonyms. Utilizing a `Dictionary<string, List<string>>`, this exercise provided hands-on experience in managing collections of related words and their synonyms.
+
+4. **Task 4 - Filter Words by Length:**
+Created a program to filter and display words based on their lengths using LINQ expressions. The exercise focused on the application of LINQ for efficient data manipulation, specifically filtering elements based on a specified condition.
+
+In this section, I explored the versatility of dictionaries, lambda expressions, and LINQ, gaining valuable insights into their applications for efficient data manipulation and collection management.
