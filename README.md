@@ -7,6 +7,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [RegularExpressions_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-second-section---regular-expressions-lesson-2)
 - [UnitTestingStringsRegEx_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-third-section---unit-tests-strings-and-regex-lesson-3)
 - [DictionariesLambdaLINQ_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-fourth-section---dictionary-lambda-expressions--linq-lesson-4)
+- [DictionariesLambdaLINQ_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-fifth-section---dictionary-lambda-expressions--linq-lesson-5)
 
 
 
