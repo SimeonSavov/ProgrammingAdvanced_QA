@@ -95,3 +95,27 @@ Implemented a program to create and display a dictionary of synonyms. Utilizing 
 Created a program to filter and display words based on their lengths using LINQ expressions. The exercise focused on the application of LINQ for efficient data manipulation, specifically filtering elements based on a specified condition.
 
 In this section, I explored the versatility of dictionaries, lambda expressions, and LINQ, gaining valuable insights into their applications for efficient data manipulation and collection management.
+
+## About the Fifth Section - Dictionary, Lambda Expressions & LINQ (Lesson 5)
+
+In the fifth section of the "Programming Advanced for QA" course, the focus continued on dictionaries, lambda expressions, and LINQ in C#. Here's a summary of the methods and exercises covered:
+
+1. **Exercise 1 - Character Occurrences:**
+Implemented a program to read a string and display the occurrences of each character, excluding spaces. Utilizing a `Dictionary<char, int>`, this exercise provided practical experience in working with characters and dictionaries.
+
+2. **Exercise 2 - Sum of Resources:**
+Developed a program to track resources and display their sums. Utilizing a `Dictionary<string, int>`, this exercise emphasized the management of resource quantities and the application of dictionary operations.
+
+3. **Exercise 3 - Product Database:**
+Implemented a program to create a product database and display the total amounts for each product. Utilizing a `Dictionary<string, List<decimal>>`, this task provided hands-on experience in managing product-related data and performing calculations.
+
+4. **Exercise 4 - Registered Users:**
+Created a program to register and unregister users, displaying their registration status. Utilizing a `Dictionary<string, string>`, this exercise focused on user registration and management through dictionary operations.
+
+5. **Exercise 5 - Excellent Students:**
+Developed a program to filter and display excellent students based on their average grades. Utilizing a `Dictionary<string, List<double>>` and LINQ expressions, this task showcased the application of LINQ for efficient data filtering.
+
+6. **Exercise 6 - Company Users:**
+Implemented a program to track employees assigned to different companies. Utilizing a `Dictionary<string, List<string>>`, this exercise enhanced my skills in working with dictionaries and managing relationships between data.
+
+In this section, I delved deeper into the practical applications of dictionaries, lambda expressions, and LINQ, gaining proficiency in handling various data scenarios and performing efficient data manipulations.
