@@ -120,3 +120,30 @@ Developed a program to filter and display excellent students based on their aver
 Implemented a program to track employees assigned to different companies. Utilizing a `Dictionary<string, List<string>>`, this exercise enhanced my skills in working with dictionaries and managing relationships between data.
 
 In this section, I delved deeper into the practical applications of dictionaries, lambda expressions, and LINQ, gaining proficiency in handling various data scenarios and performing efficient data manipulations.
+
+## About the Sixth Section - Unit Testing for Dictionaries, Lambda Expressions & LINQ (Lesson 6)
+
+In the sixth section of the "Programming Advanced for QA" course, the focus shifted towards unit testing for functionalities involving dictionaries, lambda expressions, and LINQ in C#. Here's a summary of the methods and exercises covered:
+
+1. **Exercise 1 - Count Characters:**
+Implemented a method to count the occurrences of each character in a list of strings. Utilizing NUnit tests, this exercise emphasized the importance of testing for correct character counting and dictionary creation.
+
+2. **Exercise 2 - Count Real Numbers:**
+Developed a method to count the occurrences of real numbers in an array. NUnit tests were implemented to ensure the correct functionality of counting and displaying real number occurrences.
+
+3. **Exercise 3 - Grouping:**
+Implemented a method to group even and odd numbers from a list. The NUnit tests verified the correctness of the grouping operation using lambda expressions and dictionary management.
+
+4. **Exercise 4 - Miner:**
+Created a method to mine resources and display their counts. NUnit tests were implemented to ensure the correct registration and unregistration of users, emphasizing the importance of testing dictionary-based functionalities.
+
+5. **Exercise 5 - Odd Occurrences:**
+Developed a method to find and display words with odd occurrences. NUnit tests were implemented to validate the correct identification of odd occurrences and case-insensitive comparisons.
+
+6. **Exercise 6 - Orders:**
+Implemented a method to process orders and calculate total prices. NUnit tests were created to ensure the correct calculation of total prices for various scenarios involving decimal quantities and rounded prices.
+
+7. **Exercise 7 - Plants:**
+Developed a method to group plants by their lengths and display them in ascending order. NUnit tests were implemented to verify the correct grouping and ordering of plants based on their lengths.
+
+In this section, the emphasis was on unit testing, ensuring the reliability and correctness of functionalities involving dictionaries, lambda expressions, and LINQ in C#.
