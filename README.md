@@ -148,3 +148,21 @@ Implemented a method to process orders and calculate total prices. NUnit tests w
 Developed a method to group plants by their lengths and display them in ascending order. NUnit tests were implemented to verify the correct grouping and ordering of plants based on their lengths.
 
 In this section, the emphasis was on unit testing, ensuring the reliability and correctness of functionalities involving dictionaries, lambda expressions, and LINQ in C#.
+
+## About the Seventh Section - Objects and Classes (Lesson 7)
+
+In the seventh section of the "Programming Advanced for QA" course, the focus expanded to cover objects and classes in C#. Here's a summary of the methods and exercises covered:
+
+1.  **Exercise 1 - Songs:**
+Implemented a program to manage songs, creating a list of Song objects and filtering them based on a specified type. The code showcased the usage of classes, lists, and basic object manipulation.
+    
+3.  **Exercise 2 - Students:**
+Developed a program to register students and filter them based on a specified hometown. This exercise provided hands-on experience in creating and manipulating objects of a Student class.
+    
+5.  **Exercise 3 - Store Boxes:**
+Implemented a program to manage store boxes containing items. This exercise demonstrated the creation and manipulation of classes (Item and Box) and the usage of lists to store and order objects.
+    
+7.  **Exercise 4 - Vehicle Catalogue:**
+Created a program to catalog and display information about cars and trucks. The solution showcased the usage of classes (Car and Truck), a Catalog class to manage collections, and sorting techniques with LINQ.
+    
+In this section, the focus was on practical applications of objects and classes in C#, covering topics such as object initialization, class design, and list manipulation.
