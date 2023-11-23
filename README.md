@@ -167,3 +167,16 @@ Implemented a program to manage store boxes containing items. This exercise demo
 Created a program to catalog and display information about cars and trucks. The solution showcased the usage of classes (Car and Truck), a Catalog class to manage collections, and sorting techniques with LINQ.
     
 In this section, the focus was on practical applications of objects and classes in C#, covering topics such as object initialization, class design, and list manipulation.
+
+## About the Eighth Section - Defining Classes (Lesson 8)
+
+In the eighth section of the "Programming Advanced for QA" course, the focus shifted towards defining classes in C#. Here's a summary of the key concepts and exercises covered:
+
+1.  **Car Manufacturer Program:**
+    -   Introduced a program named CarManufacturer consisting of multiple classes.
+    -   The `Car` class represents a car with properties such as Make, Model, Year, FuelQuantity, FuelConsumption, Engine, and Tires. It includes methods for driving and displaying information.
+    -   The `Engine` class models the engine of a car with properties like HorsePower and CubicCapacity.
+    -   The `Tire` class represents a tire with properties like Year and Pressure.
+    -   The `StartUp` class serves as the entry point, showcasing the creation of a car instance (Lamborghini) with specified properties and displaying its information using the `WhoAmI` method.
+
+This section provides hands-on experience in defining and utilizing classes, encapsulation, constructors, properties, and object-oriented programming principles in C#. The CarManufacturer program serves as a practical example of creating and working with interconnected classes to model a complex system.
