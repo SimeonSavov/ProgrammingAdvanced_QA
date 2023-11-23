@@ -10,6 +10,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [DictionariesLambdaLINQ_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-fifth-section---dictionary-lambda-expressions--linq-lesson-5)
 - [UnitTestingDictionariesLambdaLINQ_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-sixth-section---unit-testing-for-dictionaries-lambda-expressions--linq-lesson-6)
 - [ObjectsAndClasses_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-seventh-section---objects-and-classes-lesson-7)
+- [DefiningClasses_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-eighth-section---defining-classes-lesson-8)
 
 
 
