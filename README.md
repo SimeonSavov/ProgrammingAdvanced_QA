@@ -181,3 +181,30 @@ In the eighth section of the "Programming Advanced for QA" course, the focus shi
     -   The `StartUp` class serves as the entry point, showcasing the creation of a car instance (Lamborghini) with specified properties and displaying its information using the `WhoAmI` method.
 
 This section provides hands-on experience in defining and utilizing classes, encapsulation, constructors, properties, and object-oriented programming principles in C#. The CarManufacturer program serves as a practical example of creating and working with interconnected classes to model a complex system.
+
+## About the Ninth Section - Objects and Classes (Lesson 9)
+
+In the ninth section of the "Programming Advanced for QA" course, the focus expanded on working with objects and classes in C#. Here's a summary of the tasks covered:
+
+1.  **Task 1 - Student Grades:**
+    
+    -   Created a program to manage student information, including their first name, last name, and grade.
+    -   Utilized a class named `Student` with properties for first name, last name, and grade.
+    -   Read input for the number of students and their details, then displayed them in descending order based on grades.
+2.  **Task 2 - Article Editing:**
+    
+    -   Developed a program to manage article information, including title, content, and author.
+    -   Implemented a class named `Article` with methods for editing, changing the author, and renaming the article.
+    -   Read input for an initial article and a series of commands to perform actions on the article.
+3.  **Task 3 - Team Builder:**
+    
+    -   Created a program to manage teams and their members, avoiding duplicate teams or team creators.
+    -   Utilized a class named `Team` with properties for the team name, creator, and members.
+    -   Processed input to create teams, check membership eligibility, and display teams with members or those without members.
+4.  **Task 4 - Pokemon Trainer Tournament:**
+    
+    -   Implemented a program simulating a Pokemon Trainer Tournament.
+    -   Utilized classes such as `Trainer` and `Pokemon` to model trainers, their badges, and their Pokemon.
+    -   Registered trainers and their Pokemon, simulated battles based on Pokemon elements, and displayed the trainers sorted by badges and remaining Pokemon count.
+
+These tasks provided hands-on experience with object-oriented programming concepts, including class design, encapsulation, and interaction between objects.
