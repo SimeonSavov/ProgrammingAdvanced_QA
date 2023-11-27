@@ -1,0 +1,4 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\09.ObjectsAndClasses_Exercises\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\09.ObjectsAndClasses_Exercises\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\09.ObjectsAndClasses_Exercises\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\09.ObjectsAndClasses_Exercises\04.PokemonTrainer\obj\Debug\net6.0\04.PokemonTrainer.csproj.CoreCompileInputs.cache
