@@ -231,3 +231,21 @@ The tenth section of the "Programming Advanced for QA" course delved into unit t
     
 
 In this section, the emphasis was on unit testing for various functionalities involving objects and classes, ensuring their reliability and correctness in a C# environment.
+
+## About the Eleventh Section - Exception and Error Handling (Lesson 11)
+
+The eleventh section of the "Programming Advanced for QA" course delved into the critical topic of Exception and Error Handling in C#. Here's a summary of the tasks covered:
+
+**Task 1 - Handling Negative Square Root**
+
+The task introduced handling exceptions when attempting to calculate the square root of a number. The code checks for negative input, throwing an exception if necessary. The catch block manages the exception, displaying an error message, and the finally block ensures a "Goodbye" message is printed, irrespective of the exception status.
+
+**Task 2 - Reading Numbers with Constraints**
+
+This task involved creating a method to read a number within a specified range. A loop utilized this method to read 10 numbers, catching exceptions for values out of range or invalid integer input.
+
+**Task 3 - Summing Integers with Exception Handling**
+
+The task focused on parsing elements from a list into integers, handling exceptions for incorrect formats or values outside the valid range. The finally block provided a status message for each processed element, along with the current sum.
+
+In this section, the emphasis was on fortifying code against unexpected situations through effective exception and error handling strategies in C#. Each task provided hands-on experience in dealing with various types of exceptions, ensuring the creation of robust and error-resistant code.
