@@ -209,3 +209,24 @@ In the ninth section of the "Programming Advanced for QA" course, the focus expa
     -   Registered trainers and their Pokemon, simulated battles based on Pokemon elements, and displayed the trainers sorted by badges and remaining Pokemon count.
 
 These tasks provided hands-on experience with object-oriented programming concepts, including class design, encapsulation, and interaction between objects.
+
+## About the Tenth Section - Unit Testing for Objects and Classes (Lesson 10)
+
+The tenth section of the "Programming Advanced for QA" course delved into unit testing for functionalities centered around objects and classes in C#. Here's a summary of the methods and exercises covered:
+
+1.  **Task 1 - Shop:** Created a class named `Shop` with methods to add and get boxes. The unit tests ensured the correct sorting of boxes based on their prices, validating the proper functioning of the `AddAndGetBoxes` method.
+    
+2.  **Task 2 - Vehicles:** Implemented a class called `Vehicles` to process and catalog cars and trucks. The unit tests focused on confirming the correct sorting of the catalog based on vehicle type (cars and trucks), ensuring the accuracy of the `AddAndGetCatalogue` method.
+    
+3.  **Task 3 - Article:** Developed a class named `Article` with methods to add articles and retrieve them based on specific criteria such as title, content, or author. The unit tests verified the accuracy of the article addition and sorting functionalities, ensuring the correctness of the `AddArticles` and `GetArticleList` methods.
+    
+4.  **Task 4 - Person:** Created a class called `Person` to manage a list of people and their details. The unit tests focused on confirming the proper addition and sorting of people based on their unique IDs, validating the correctness of the `AddPeople` and `GetByAgeAscending` methods.
+    
+5.  **Task 5 - Planet:** Implemented a class named `Planet` representing celestial bodies with methods to calculate gravity and retrieve planet information. The unit tests ensured the accurate calculation of gravity and the correct display of planet information, validating the functionality of the `CalculateGravity` and `GetPlanetInfo` methods.
+    
+6.  **Task 6 - Song:** Developed a class called `Song` to manage a list of songs and filter them based on a specified list type. The unit tests focused on confirming the proper addition and filtering of songs, ensuring the correctness of the `AddAndListSongs` method.
+    
+7.  **Task 7 - Student:** Created a class named `Student` with methods to add students and retrieve information about students from a specific hometown. The unit tests verified the accuracy of the student addition and filtering functionalities, ensuring the correctness of the `AddAndGetByCity` method.
+    
+
+In this section, the emphasis was on unit testing for various functionalities involving objects and classes, ensuring their reliability and correctness in a C# environment.
