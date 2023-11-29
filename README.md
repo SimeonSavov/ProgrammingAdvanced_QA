@@ -13,6 +13,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [DefiningClasses_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-eighth-section---defining-classes-lesson-8)
 - [ObjectsAndClasses_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-ninth-section---objects-and-classes-lesson-9)
 - [UnitTestingObjectsAndClasses_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-tenth-section---unit-testing-for-objects-and-classes-lesson-10)
+- [ExceptionAndErrorHandling_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-eleventh-section---exception-and-error-handling-lesson-11)
 
 
 
