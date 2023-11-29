@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\11.ExceptionsAndErrorHandling_Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll
