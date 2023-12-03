@@ -250,3 +250,49 @@ This task involved creating a method to read a number within a specified range. 
 The task focused on parsing elements from a list into integers, handling exceptions for incorrect formats or values outside the valid range. The finally block provided a status message for each processed element, along with the current sum.
 
 In this section, the emphasis was on fortifying code against unexpected situations through effective exception and error handling strategies in C#. Each task provided hands-on experience in dealing with various types of exceptions, ensuring the creation of robust and error-resistant code.
+
+## About the Twelfth Section - Unit Testing for Exceptions and Error Handling (Lesson 12)
+
+In the twelfth section of the "Programming Advanced for QA" course, the focus shifted to Unit Testing for Exceptions and Error Handling in C#. Here's an in-depth overview of each task, highlighting the key concepts and skills acquired:
+
+**Task 1 - Exceptional String Reversal**
+
+The initial task delved into the importance of handling exceptions when reversing a string. The method was designed to check for null input, throwing an ArgumentNullException when necessary. Unit tests were meticulously crafted to ensure the proper reversal of strings and the effective handling of null inputs.
+
+**Task 2 - Robust Number Reading**
+
+Task 2 involved creating a method for reading numbers within specified constraints. Utilizing a loop, this method read 10 numbers while catching exceptions for values outside the designated range or invalid integer inputs. The accompanying unit tests rigorously examined the functionality of the reading method and its adept exception-handling capabilities.
+
+**Task 3 - Summing Up Exceptions**
+
+The third task focused on parsing elements from a list into integers, emphasizing the handling of exceptions for incorrect formats or values beyond the valid range. The finally block ensured the provision of a status message for each processed element, along with the current sum. Unit tests played a crucial role in validating the correct parsing of elements and the effective handling of various exceptions.
+
+**Task 4 - Null Argument Reversal**
+
+Task 4 expanded on exception handling, specifically addressing null arguments in string reversal. The method checked for null input, throwing an ArgumentNullException when necessary. The unit tests systematically verified the correct reversal of strings and the proper management of null inputs.
+
+**Task 5 - Discount Calculation Precision**
+
+In this task, precision in discount calculation was explored. The method checked for discount values outside the valid range, throwing an ArgumentException when necessary. Unit tests were meticulously designed to validate the precise calculation of discounts and the accurate handling of out-of-range discount values.
+
+**Task 6 - Secure Element Retrieval**
+
+Task 6 focused on secure retrieval of elements from an array by index. The method checked for index values outside the valid range, throwing an IndexOutOfRangeException when necessary. Unit tests rigorously examined the functionality of the retrieval method and its robust exception-handling capabilities.
+
+**Task 7 - Secure Operation Execution**
+
+The seventh task emphasized executing secure operations by checking a user's login status. The method threw an InvalidOperationException for unauthorized users. Unit tests thoroughly validated the correct execution of secure operations for logged-in users and the effective handling of unauthorized attempts.
+
+**Task 8 - Integer Parsing Confidence**
+
+Task 8 centered on parsing strings into integers, specifically addressing FormatException scenarios. The method threw a FormatException for incorrectly formatted input. Unit tests played a crucial role in ensuring the accurate parsing of integers and the effective management of FormatException cases.
+
+**Task 9 - Key-Based Value Retrieval**
+
+In this task, the focus was on retrieving values from a dictionary based on keys. The method threw a KeyNotFoundException for missing keys. Unit tests systematically verified the correct retrieval of values for existing keys and the proper handling of scenarios where keys were not found.
+
+**Task 10 - Arithmetic Operation Resilience**
+
+The final task explored resilience in arithmetic operations, specifically addressing overflow scenarios during addition. The method utilized a checked block and threw an OverflowException when necessary. Unit tests played a crucial role in validating the resilience of arithmetic operations and the effective handling of overflow situations.
+
+In this section, developers gained comprehensive insights into Unit Testing for Exceptions and Error Handling in C#, acquiring essential skills to build robust, error-resistant code that can effectively handle unexpected situations. The meticulously designed unit tests serve as a reliable suite for validating the correctness and resilience of exception-handling mechanisms implemented in C# applications.
