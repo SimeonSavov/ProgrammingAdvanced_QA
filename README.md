@@ -297,3 +297,25 @@ In this task, the focus was on retrieving values from a dictionary based on keys
 The final task explored resilience in arithmetic operations, specifically addressing overflow scenarios during addition. The method utilized a checked block and threw an OverflowException when necessary. Unit tests played a crucial role in validating the resilience of arithmetic operations and the effective handling of overflow situations.
 
 In this section, developers gained comprehensive insights into Unit Testing for Exceptions and Error Handling in C#, acquiring essential skills to build robust, error-resistant code that can effectively handle unexpected situations. The meticulously designed unit tests serve as a reliable suite for validating the correctness and resilience of exception-handling mechanisms implemented in C# applications.
+
+## About the Thirteenth Section - OOP: Encapsulation and Inheritance (Lesson 13)
+
+The thirteenth section of the "Programming Advanced for QA" course delves into the fundamental principles of Object-Oriented Programming (OOP), focusing on encapsulation and inheritance in C#. Here's a breakdown of the tasks and key concepts covered:
+
+**Task 1 - Creating Box Objects**
+
+Task 1 involves creating objects of the `Box` class, demonstrating encapsulation by restricting access to the dimensions of the box. The class encapsulates length, width, and height properties with validation, ensuring that only valid dimensions can be set.
+
+**Task 2 - Sorting and Displaying Persons**
+
+In Task 2, a list of `Person` objects is created, showcasing encapsulation by encapsulating the properties of first name, last name, and age. The list is then sorted based on first name and age, highlighting the power of encapsulation in organizing and manipulating data.
+
+**Task 3 - Implementing a Hero Hierarchy**
+
+Task 3 introduces inheritance with a hierarchy of hero classes, showcasing the relationship between base classes (`Hero`, `Elf`) and derived classes (`Knight`, `BladeKnight`, `DarkKnight`, `MuseElf`). This demonstrates the concept of specialization and code reuse through inheritance.
+
+**Task 4 - Constructing a Zoo Animal Hierarchy**
+
+The fourth task presents an animal hierarchy for a zoo, emphasizing inheritance by structuring classes for different types of animals, including mammals (`Bear`, `Gorilla`), reptiles (`Lizard`, `Snake`), and base classes (`Animal`, `Mammal`, `Reptile`). This hierarchy allows for organized representation and management of zoo inhabitants.
+
+In this section, developers gain practical experience in applying encapsulation and inheritance, two key pillars of Object-Oriented Programming. The tasks provide hands-on insights into creating structured, reusable, and maintainable code, essential for building robust software solutions.
