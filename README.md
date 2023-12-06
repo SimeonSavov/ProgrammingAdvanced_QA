@@ -15,6 +15,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [UnitTestingObjectsAndClasses_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-tenth-section---unit-testing-for-objects-and-classes-lesson-10)
 - [ExceptionAndErrorHandling_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-eleventh-section---exception-and-error-handling-lesson-11)
 - [UnitTestingExceptions&ErrorHandling_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-twelfth-section---unit-testing-for-exceptions-and-error-handling-lesson-12)
+- [OPP: Encapsulation, Inheritance_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-thirteenth-section---oop-encapsulation-and-inheritance-lesson-13)
 
 
 
