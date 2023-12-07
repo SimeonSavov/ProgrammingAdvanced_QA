@@ -1,0 +1,14 @@
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\bin\Debug\net6.0\Raiding.exe
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\bin\Debug\net6.0\Raiding.deps.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\bin\Debug\net6.0\Raiding.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\bin\Debug\net6.0\Raiding.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.pdb
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+C:\Users\simo7\OneDrive\Работен плот\Programming-For-QA-September2023\ProgrammingAdvancedForQA\14.OOP_Principles_Lab\Raiding\obj\Debug\net6.0\ref\Raiding.dll
