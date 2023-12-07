@@ -320,3 +320,25 @@ Task 3 introduces inheritance with a hierarchy of hero classes, showcasing the r
 The fourth task presents an animal hierarchy for a zoo, emphasizing inheritance by structuring classes for different types of animals, including mammals (`Bear`, `Gorilla`), reptiles (`Lizard`, `Snake`), and base classes (`Animal`, `Mammal`, `Reptile`). This hierarchy allows for organized representation and management of zoo inhabitants.
 
 In this section, developers gain practical experience in applying encapsulation and inheritance, two key pillars of Object-Oriented Programming. The tasks provide hands-on insights into creating structured, reusable, and maintainable code, essential for building robust software solutions.
+
+## About the Fourteenth Section - OOP: Abstraction and Polymorphism (Lesson 14)
+
+The fourteenth section of the "Programming Advanced for QA" course continues the exploration of Object-Oriented Programming (OOP) principles, focusing on abstraction and polymorphism in C#. Here's a comprehensive overview of the tasks and key concepts covered:
+
+**Task 1 - Abstracting Animal Behavior**
+
+Task 1 introduces abstraction by creating abstract classes and methods for animals. The Animal class serves as a base abstraction, and concrete implementations (Cat and Dog) showcase the power of abstraction in providing a common structure for diverse entities while allowing specific implementations.
+
+**Task 2 - Interface-based Car Abstraction**
+
+In Task 2, abstraction is achieved through interfaces. The ICar interface defines common properties and methods for cars, and concrete classes (Seat, Tesla) implement this interface. This task highlights the flexibility of abstraction through interfaces, enabling multiple inheritance and creating a unified contract for diverse classes.
+
+**Task 3 - Polymorphic Hero Casting**
+
+Task 3 explores polymorphism by creating a hierarchy of heroes with different abilities. The IHero interface and base class (BaseHero) demonstrate polymorphic behavior as derived classes (Druid, Paladin, Rogue, Warrior) override methods. This showcases the power of polymorphism in simplifying code and accommodating diverse functionalities within a common structure.
+
+**Task 4 - Drawing Shapes with Polymorphism**
+
+The fourth task focuses on polymorphic behavior in the context of drawing shapes. The IDrawable interface defines a common drawing method, and classes (Circle, Rectangle) implement this interface. This demonstrates how polymorphism simplifies code maintenance and extension by providing a consistent way to interact with different shapes.
+
+In this section, I gain hands-on experience in applying abstraction and polymorphism, essential concepts in Object-Oriented Programming. The tasks emphasize my creation of flexible, extensible, and easy-to-maintain code, contributing to the development of robust software solutions.
