@@ -343,3 +343,25 @@ Task 3 explores polymorphism by creating a hierarchy of heroes with different ab
 The fourth task focuses on polymorphic behavior in the context of drawing shapes. The IDrawable interface defines a common drawing method, and classes (Circle, Rectangle) implement this interface. This demonstrates how polymorphism simplifies code maintenance and extension by providing a consistent way to interact with different shapes.
 
 In this section, I gain hands-on experience in applying abstraction and polymorphism, essential concepts in Object-Oriented Programming. The tasks emphasize my creation of flexible, extensible, and easy-to-maintain code, contributing to the development of robust software solutions.
+
+## About the Fifteenth Section - OOP Hierarchy (Lesson 15)
+
+The fifteenth section of the "Programming Advanced for QA" course delves into the concept of OOP Hierarchy, focusing on building a restaurant application. Here's a detailed overview of the tasks and key concepts covered:
+
+**Task 1 - Restaurant Application Foundation**
+
+Task 1 serves as the foundation for the restaurant application. I create a `Restaurant` class, introducing concepts like menu items, customers, and orders. The task involves adding customers and menu items, placing orders, and displaying menu items and order history.
+
+**Task 2 - Creating Menu Item Hierarchy**
+
+In this task, I establish an item hierarchy for the restaurant's menu. Classes like `MainCourseMenuItem`, `AppetizerMenuItem`, and `DessertMenuItem` inherit from the abstract class `MenuItem`. This showcases the power of inheritance in organizing menu items with shared properties and behavior.
+
+**Task 3 - Customer Order History**
+
+Task 3 emphasizes customer order history management. The `Customer` class encapsulates order history, demonstrating encapsulation and showcasing how customers can place and retrieve orders. This task further solidifies the practical application of OOP principles.
+
+**Task 4 - Displaying Menu and Order History**
+
+The final task involves implementing methods to display the restaurant's menu and a customer's order history. The `Restaurant` class showcases how to present information in a structured manner, offering insights into the effectiveness of the implemented OOP Hierarchy.
+
+In this section, I gain hands-on experience in applying OOP Hierarchy concepts to a real-world scenario—the development of a restaurant management system. These tasks provide practical insights into creating organized, reusable, and maintainable code, essential for developing robust software solutions.
