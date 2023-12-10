@@ -17,6 +17,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [UnitTestingExceptions&ErrorHandling_Exercises](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-twelfth-section---unit-testing-for-exceptions-and-error-handling-lesson-12)
 - [OPP: Encapsulation, Inheritance_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-thirteenth-section---oop-encapsulation-and-inheritance-lesson-13)
 - [OOP: Abstraction, Polymorphism_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-fourteenth-section---oop-abstraction-and-polymorphism-lesson-14)
+- [OOP: Hierarchy_Exercise](https://github.com/SimeonSavov/ProgrammingAdvanced_QA/blob/main/README.md#about-the-fifteenth-section---oop-hierarchy-lesson-15)
 
 
 
