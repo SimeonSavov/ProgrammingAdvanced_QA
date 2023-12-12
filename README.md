@@ -366,3 +366,21 @@ Task 3 emphasizes customer order history management. The `Customer` class encaps
 The final task involves implementing methods to display the restaurant's menu and a customer's order history. The `Restaurant` class showcases how to present information in a structured manner, offering insights into the effectiveness of the implemented OOP Hierarchy.
 
 In this section, I gain hands-on experience in applying OOP Hierarchy concepts to a real-world scenario—the development of a restaurant management system. These tasks provide practical insights into creating organized, reusable, and maintainable code, essential for developing robust software solutions.
+
+## About the Sixteenth Section - Exam Preparation: Unit Testing (Lesson 16)
+
+The sixteenth section of the "Programming Advanced for QA" course focuses on Exam Preparation with a specific emphasis on Unit Testing. This section aims to provide a comprehensive understanding of unit testing principles and practices through practical exercises. Here's an overview of the tasks covered:
+
+**Task 1 - String Rotator**
+
+Task 1 involves the implementation of a StringRotator class with a method to rotate characters to the right in a string. The corresponding unit tests, using NUnit.Framework, ensure the correctness of the rotation functionality under various scenarios, including empty strings and different rotation positions.
+
+**Task 2 - Dictionary Intersection**
+
+Task 2 introduces the DictionaryIntersection class, designed to find the common elements between two dictionaries. The unit tests validate the functionality under different conditions, such as empty dictionaries, dictionaries with common keys and values, and dictionaries with common keys but different values.
+
+**Task 3 - Product Inventory**
+
+Task 3 revolves around a Product class and a ProductInventory class responsible for managing products, displaying the inventory, and calculating the total value. Unit tests, implemented using NUnit.Framework, verify the correctness of adding products, displaying the inventory, and calculating the total value.
+
+In this section, I engage in hands-on exercises to strengthen my unit testing skills. Each task focuses on a specific aspect of unit testing, ensuring that I am well-prepared to create reliable, maintainable, and bug-free code. These exercises contribute to my proficiency in implementing effective unit tests for software quality assurance.
