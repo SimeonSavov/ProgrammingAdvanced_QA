@@ -19,6 +19,7 @@ Welcome to my repository for the 'Programming Advanced for QA' course in QA Engi
 - [OOP: Abstraction, Polymorphism_Lab](https://github.com/SimeonSavov/ProgrammingAdvanced_QA#about-the-fourteenth-section---oop-abstraction-and-polymorphism-lesson-14)
 - [OOP: Hierarchy_Exercise](https://github.com/SimeonSavov/ProgrammingAdvanced_QA/blob/main/README.md#about-the-fifteenth-section---oop-hierarchy-lesson-15)
 - [ExamPreparation_UnitTesting](https://github.com/SimeonSavov/ProgrammingAdvanced_QA?tab=readme-ov-file#about-the-sixteenth-section---exam-preparation-unit-testing-lesson-16)
+- [ExamPreparation2_UnitTesting](https://github.com/SimeonSavov/ProgrammingAdvanced_QA?tab=readme-ov-file#about-the-seventeenth-section---exam-preparation-2-unit-testing-lesson-17)
 
 
 
@@ -385,3 +386,21 @@ Task 2 introduces the DictionaryIntersection class, designed to find the common 
 Task 3 revolves around a Product class and a ProductInventory class responsible for managing products, displaying the inventory, and calculating the total value. Unit tests, implemented using NUnit.Framework, verify the correctness of adding products, displaying the inventory, and calculating the total value.
 
 In this section, I engage in hands-on exercises to strengthen my unit testing skills. Each task focuses on a specific aspect of unit testing, ensuring that I am well-prepared to create reliable, maintainable, and bug-free code. These exercises contribute to my proficiency in implementing effective unit tests for software quality assurance.
+
+## About the Seventeenth Section - Exam Preparation 2: Unit Testing (Lesson 17)
+
+The seventeenth section of the "Programming Advanced for QA" course continues the Exam Preparation series, with a dedicated focus on Unit Testing. This section provides practical exercises aimed at enhancing understanding and proficiency in unit testing principles and methodologies. Here's a concise overview of the tasks covered:
+
+**Task 1: CSV Parser**
+
+Task 1 involves the implementation of a CsvParser class with a method to parse CSV (Comma-Separated Values) data into an array of strings. The corresponding unit tests, utilizing NUnit.Framework, rigorously verify the parser's functionality under various scenarios, including empty input, single fields, multiple fields, and trimming whitespace.
+
+**Task 2: Fruits Quantity Checker**
+
+Task 2 introduces the Fruits class, designed to determine the quantity of a specific fruit from a dictionary. The unit tests thoroughly validate the functionality under different conditions, such as existing and non-existing fruits, empty dictionaries, null dictionaries, and null fruit names.
+
+**Task 3: To-Do List Manager**
+
+Task 3 revolves around the ToDoList class, responsible for managing tasks, marking tasks as completed, and displaying the to-do list. The unit tests, implemented using NUnit.Framework, ensure the correctness of adding tasks, completing tasks, handling task not found scenarios, and displaying tasks.
+
+In this section, I actively engage in hands-on exercises, honing my skills in effective unit testing. Each task addresses specific aspects of unit testing, providing practical insights and preparing me to create robust, error-resistant code. These exercises contribute significantly to my proficiency in implementing high-quality unit tests for software quality assurance.
