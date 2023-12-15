@@ -410,15 +410,15 @@ In this section, I actively engage in hands-on exercises, honing my skills in ef
 
 The eighteenth section of the "Programming Advanced for QA" course delves into Exam Preparation 3 with a strong emphasis on Unit Testing. This section comprises practical exercises tailored to further refine understanding and expertise in unit testing principles and methodologies. Here's a brief overview of the tasks covered:
 
-**Exercise 1: Substring Extractor**
+**Task 1: Substring Extractor**
 
 Task 1 involves the implementation of a SubstringExtractor class with a method to extract substrings between specified markers in a given input string. The accompanying unit tests, crafted with NUnit.Framework, rigorously validate the extractor's performance under various scenarios, including successful substring extraction, missing start or end markers, empty input, and overlapping markers.
 
-**Exercise 2: Top Students Finder**
+**Task 2: Top Students Finder**
 
 Task 2 introduces the Grades class, designed to identify and display the top three students based on their grades. The unit tests thoroughly verify the correctness of the functionality in scenarios such as having students with varying grades, an empty grades dictionary, less than three students, and students with the same grade.
 
-**Exercise 3: Chat Room Manager**
+**Task 3: Chat Room Manager**
 
 Task 3 revolves around the ChatRoom class, responsible for managing and displaying chat messages. This involves sending messages, displaying an empty chat, and presenting a formatted chat with multiple messages. The unit tests, implemented using NUnit.Framework, validate the functionality of sending messages, displaying an empty chat, and formatting a chat with multiple messages.
 
