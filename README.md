@@ -423,3 +423,21 @@ Task 2 introduces the Grades class, designed to identify and display the top thr
 Task 3 revolves around the ChatRoom class, responsible for managing and displaying chat messages. This involves sending messages, displaying an empty chat, and presenting a formatted chat with multiple messages. The unit tests, implemented using NUnit.Framework, validate the functionality of sending messages, displaying an empty chat, and formatting a chat with multiple messages.
 
 In this section, I actively participate in hands-on exercises, refining my proficiency in unit testing. Each task addresses specific aspects of unit testing, offering practical insights and preparing me to create resilient, high-quality code. These exercises significantly contribute to enhancing my skill set for implementing effective unit tests in software quality assurance.
+
+## About the Nineteenth Section - Exam: Unit Testing
+
+The nineteenth and final section of the "Programming Advanced for QA" course is dedicated to the final exam. This exam assesses the comprehensive understanding and application of various programming concepts covered throughout the course. Here's a glimpse of the exercises included in the exam:
+
+**Task 1: Camel Case Converter**
+
+Task 1 involves the implementation of a CamelCaseConverter class, providing a method to convert a space-separated string into camel case format. The accompanying unit tests, created with NUnit.Framework, meticulously verify the converter's correctness under different scenarios, including empty strings, single words, and multiple words with mixed case.
+
+**Task 2: Number Frequency Counter**
+
+Task 2 introduces the NumberFrequency class, designed to count the frequency of digits in a given number. The unit tests meticulously validate the functionality under scenarios such as zero numbers, single-digit numbers, multiple-digit numbers, and negative numbers.
+
+**Task 3: Bank Account Manager**
+
+Task 3 revolves around the BankAccount class, responsible for managing account balances through deposit and withdrawal methods. The unit tests, implemented using NUnit.Framework, ensure the correctness of the deposit and withdrawal functionalities under various scenarios, including positive and negative amounts, valid withdrawals, and invalid withdrawal amounts.
+
+In this final section, the exam challenges participants to apply their acquired knowledge and skills across a range of programming tasks. Each exercise emphasizes specific programming concepts, allowing for a comprehensive evaluation of the proficiency gained throughout the course. This exam marks the culmination of the "Programming Advanced for QA" journey, providing a platform to showcase and apply the skills acquired in real-world programming scenarios.
